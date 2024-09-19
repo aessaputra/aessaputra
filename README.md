@@ -15,9 +15,9 @@ I'm a **Cloud Engineer** passionate about building scalable, reliable, and secur
 - 📜 **Languages**: Python, Bash, YAML, Go
 
 ### 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-- Email: aessaputra@yahoo.com
+- LinkedIn: [aessaputra](https://www.linkedin.com/in/aessaputra/)
+- Twitter: [aesxsaputra](https://x.com/aesxsaputra)
+- Email: hi@aessaputra.net
 
 ### ⚡ Fun Fact
 I’m always on the lookout for the next exciting cloud project, and when I’m not engineering in the cloud, you’ll find me exploring the outdoors or tinkering with IoT devices.
