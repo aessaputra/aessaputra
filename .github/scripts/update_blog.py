@@ -1,35 +1,41 @@
 import feedparser
 import datetime
 
-# URL RSS feed Anda
+# Constants
 RSS_FEED_URL = "https://aessaputra.net/feed"
+NUM_POSTS = 5
+README_FILE = "README.md"
+START_MARKER = "<!-- BLOG-POST-LIST:START -->"
+END_MARKER = "<!-- BLOG-POST-LIST:END -->"
 
-# Fungsi untuk mengambil entri terbaru dari RSS feed
-def get_latest_blog_posts():
+def fetch_latest_blog_posts():
+    """Fetch the latest blog posts from the RSS feed."""
     feed = feedparser.parse(RSS_FEED_URL)
     posts = []
-    for entry in feed.entries[:5]:  # Ambil 5 posting terbaru
+    for entry in feed.entries[:NUM_POSTS]:
         published_date = datetime.datetime(*entry.published_parsed[:6]).strftime('%Y-%m-%d')
         posts.append(f"- [{entry.title}]({entry.link}) - {published_date}")
     return "\n".join(posts)
 
-# Fungsi untuk memperbarui README.md
-def update_readme(blog_posts):
-    with open("README.md", "r") as file:
-        readme = file.read()
+def update_readme_with_posts(blog_posts):
+    """Update the README file with the latest blog posts."""
+    with open(README_FILE, "r") as file:
+        readme_content = file.read()
 
-    # Temukan bagian di README.md di mana Anda ingin menambahkan posting blog
-    start_marker = "<!-- BLOG-POST-LIST:START -->"
-    end_marker = "<!-- BLOG-POST-LIST:END -->"
-    start_index = readme.find(start_marker) + len(start_marker)
-    end_index = readme.find(end_marker)
+    start_index = readme_content.find(START_MARKER) + len(START_MARKER)
+    end_index = readme_content.find(END_MARKER)
 
-    # Perbarui bagian tersebut dengan posting blog terbaru
-    updated_readme = readme[:start_index] + "\n" + blog_posts + "\n" + readme[end_index:]
+    updated_readme = (
+        readme_content[:start_index] + "\n" + blog_posts + "\n" + readme_content[end_index:]
+    )
 
-    with open("README.md", "w") as file:
+    with open(README_FILE, "w") as file:
         file.write(updated_readme)
 
+def main():
+    """Main function to fetch blog posts and update the README."""
+    blog_posts = fetch_latest_blog_posts()
+    update_readme_with_posts(blog_posts)
+
 if __name__ == "__main__":
-    blog_posts = get_latest_blog_posts()
-    update_readme(blog_posts)
+    main()
