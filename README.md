@@ -10,7 +10,7 @@
 ### 🌱 About Me
 
 - 🌱 I love learning **everything!**
-- 👨‍💻 All of my projects are available at [https://github.com/aessaputra](https://github.com/aessaputra)
+- 👨‍💻 All of my projects are available at [https://github.com/aessaputra](https://github.com/aessaputra?tab=repositories)
 - 📝 I regularly write articles on [https://aessaputra.net](https://aessaputra.net)
 - 💬 Ask me about **Cloud Computing, Linux, or Fullstack Development**
 - 📫 How to reach me: **hi@aessaputra.net**
@@ -182,11 +182,6 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Efisien Mentransfer File di Linux: Panduan Menggunakan SCP dan Rsync](https://aessaputra.net/cara-efisien-mentransfer-file-di-linux-panduan-menggunakan-scp-dan-rsync/) - 2024-09-18
-- [Cara Mudah Install VirtualBox di Ubuntu](https://aessaputra.net/cara-mudah-instal-virtualbox-di-ubuntu/) - 2024-09-07
-- [Cara Menggunakan Revanced-CLI Non ROOT](https://aessaputra.net/cara-menggunakan-revanced-cli-non-root/) - 2023-07-25
-- [Pengertian Kubernetes, Fungsi, dan Cara Kerjanya](https://aessaputra.net/pengertian-kubernetes-fungsi-dan-cara-kerjanya/) - 2023-03-30
-- [Cara Menginstall OpenVPN di Ubuntu 22.04](https://aessaputra.net/cara-menginstall-openvpn-di-ubuntu-22-04/) - 2023-03-28
 <!-- BLOG-POST-LIST:END -->
 
 ---
