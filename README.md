@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aessaputra&label=Profile%20views&color=0e75b6&style=flat" alt="aessaputra" />
-  <a href="https://twitter.com/pioonrey" target="blank"><img src="https://img.shields.io/twitter/follow/pioonrey?logo=twitter&style=for-the-badge" alt="pioonrey" /></a>
 </p>
 
 ---
@@ -177,16 +176,12 @@
     </tr>
   </table>
 </p>
+
 ---
 
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Efisien Mentransfer File di Linux: Panduan Menggunakan SCP dan Rsync](https://aessaputra.net/cara-efisien-mentransfer-file-di-linux-panduan-menggunakan-scp-dan-rsync/) - 2024-09-18
-- [Cara Mudah Install VirtualBox di Ubuntu](https://aessaputra.net/cara-mudah-instal-virtualbox-di-ubuntu/) - 2024-09-07
-- [Cara Menggunakan Revanced-CLI Non ROOT](https://aessaputra.net/cara-menggunakan-revanced-cli-non-root/) - 2023-07-25
-- [Pengertian Kubernetes, Fungsi, dan Cara Kerjanya](https://aessaputra.net/pengertian-kubernetes-fungsi-dan-cara-kerjanya/) - 2023-03-30
-- [Cara Menginstall OpenVPN di Ubuntu 22.04](https://aessaputra.net/cara-menginstall-openvpn-di-ubuntu-22-04/) - 2023-03-28
 <!-- BLOG-POST-LIST:END -->
 
 ---
