@@ -1,0 +1,23 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          LANG_COUNT: 6
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          IGNORED_LANGUAGES: "YAML JSON Markdown"
+          COMMIT_MESSAGE: "chore: update WakaTime stats"
+          TARGET_BRANCH: main
