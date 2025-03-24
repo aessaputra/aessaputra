@@ -200,6 +200,12 @@
 
 ---
 
+### ⚡ Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="left">
