@@ -9,18 +9,32 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update WakaTime Stats
+  update-stats:
+    name: Update Coding Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
+      - uses: actions/checkout@v4
+        
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          LANG_COUNT: 6
+          SECTION_NAME: "coding-stats"
+          
+          SHOW_TITLE: false
+          TIME_RANGE: "last_7_days"
+          LANG_COUNT: 5
+          BLOCKS: "▰▱"
           SHOW_TIME: true
           SHOW_TOTAL: true
-          IGNORED_LANGUAGES: "YAML JSON Markdown"
-          COMMIT_MESSAGE: "chore: update WakaTime stats"
-          TARGET_BRANCH: main
+          IGNORED_LANGUAGES: "YAML JSON Markdown Text" 
+
+          COMMIT_MESSAGE: "docs: update coding metrics [skip ci]"
+          TARGET_BRANCH: "main"
+
+          SHOW_OS: true
+          SHOW_PROJECTS: false
+          SHOW_EDITORS: false
+          SHOW_LOC_CHART: false
