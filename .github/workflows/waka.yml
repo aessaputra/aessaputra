@@ -34,8 +34,4 @@ jobs:
           COMMIT_MESSAGE: "docs: update coding metrics [skip ci]"
           TARGET_BRANCH: "main"
 
-          SHOW_OS: true
-          SHOW_PROJECTS: false
-          SHOW_EDITORS: false
-          SHOW_LOC_CHART: false
           API_BASE_URL: "https://waka-stats.aes.my.id:2087/api"
