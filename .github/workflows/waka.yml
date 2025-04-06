@@ -24,9 +24,9 @@ jobs:
           SECTION_NAME: "coding-stats"
           
           SHOW_TITLE: false
-          TIME_RANGE: "last_7_days"
+          TIME_RANGE: "all_time"
           LANG_COUNT: 5
-          BLOCKS: "▰▱"
+          BLOCKS: "░▒▓█"
           SHOW_TIME: true
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: "YAML JSON Markdown Text" 
@@ -38,3 +38,4 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
           SHOW_LOC_CHART: false
+          API_BASE_URL: "https://waka-stats.aes.my.id:2087/api"
