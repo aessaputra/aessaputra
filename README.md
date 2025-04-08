@@ -204,11 +204,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 12 mins
+Total Time: 2 hrs 18 mins
 
-unknown    0 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
-Bash       0 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-PHP        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP        1 hrs 48 mins   ███████████████████▓░░░░░   78.17 %
+unknown    0 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Bash       0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
