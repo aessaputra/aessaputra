@@ -22,23 +22,23 @@
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/n1try/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
+      <br>JavaScript<br><img src="https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:javascript&style=flat-square&color=blue&label="/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      <br>PHP<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/n1try/interval:any/language:PHP&style=flat-square&color=blue&label=time"/>
+      <br>PHP<br><img src="https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:php&style=flat-square&color=blue&label="/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/n1try/interval:any/language:Docker&style=flat-square&color=blue&label=time"/>
+      <br>Docker<br><img src="https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:dockerfile&style=flat-square&color=blue&label="/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br>Go<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/n1try/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
+      <br>Go<br><img src="https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:go&style=flat-square&color=blue&label="/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
-      <br>Rust<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/n1try/interval:any/language:Rust&style=flat-square&color=blue&label=time"/>
+      <br>Rust<br><img src="https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:rust&style=flat-square&color=blue&label="/>
     </td>
   </tr>
 </table>
