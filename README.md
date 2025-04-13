@@ -22,19 +22,19 @@
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br>Go<br>(⭐️⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
+      <br>Go<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript<br>(⭐️⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
+      <br>JavaScript<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python<br>(⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
+      <br>Python<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker<br>(⭐️⭐️)<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Docker&style=flat-square&color=blue&label=time"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Rust" />
+      <br>Rust<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Rust&style=flat-square&color=blue&label=time"/>
     </td>
   </tr>
 </table>
