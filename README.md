@@ -65,13 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 76 hrs 31 mins
+Total Time: 75 hrs 39 mins
 
-JavaScript       44 hrs 21 mins  ██████████████▒░░░░░░░░░░   57.96 %
-PHP              14 hrs 19 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-Docker           3 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Go               2 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Rust             2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+JavaScript       40 hrs 22 mins  █████████████▒░░░░░░░░░░░   53.36 %
+PHP              15 hrs 56 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+Docker           3 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+HTML             3 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Go               2 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
