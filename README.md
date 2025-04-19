@@ -44,11 +44,6 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn GIT: Base Command, Pull Request, Branching, Merging](https://aessaputra.net/learn-git-base-command-pull-request-branching-merging/) - 2025-03-18
-- [Cara Efisien Mentransfer File di Linux: Panduan Menggunakan SCP dan Rsync](https://aessaputra.net/cara-efisien-mentransfer-file-di-linux-panduan-menggunakan-scp-dan-rsync/) - 2024-09-18
-- [Cara Mudah Install VirtualBox di Ubuntu](https://aessaputra.net/cara-mudah-instal-virtualbox-di-ubuntu/) - 2024-09-07
-- [Cara Menggunakan Revanced-CLI Non ROOT](https://aessaputra.net/cara-menggunakan-revanced-cli-non-root/) - 2023-07-25
-- [Pengertian Kubernetes, Fungsi, dan Cara Kerjanya](https://aessaputra.net/pengertian-kubernetes-fungsi-dan-cara-kerjanya/) - 2023-03-30
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -64,7 +59,7 @@
 
 ### ⚡ Coding Stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username={aessaputra}&api_domain=waka-stats.aes.my.id:2087&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username={aessaputra}&api_domain=waka-stats.aes.my.id:2087&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 ---
 
