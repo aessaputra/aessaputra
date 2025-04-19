@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aessaputra&theme=codeSTACKr&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![Aes Saputra GitHub stats](https://github-readme-stats.vercel.app/api?username=aessaputra&theme=codeSTACKr&show_icons=true&)](https://aessaputra.is-a.dev)
 
 
 ---
