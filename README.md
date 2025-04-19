@@ -56,8 +56,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aessaputra&theme=codeSTACKr&show_icons=true&include_all_commits=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=aessaputra&theme=codeSTACKr&show_icons=true&show_rank=true" />
 </p>
 
 
