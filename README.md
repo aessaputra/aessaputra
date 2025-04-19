@@ -44,11 +44,6 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn GIT: Base Command, Pull Request, Branching, Merging](https://aessaputra.net/learn-git-base-command-pull-request-branching-merging/) - 2025-03-18
-- [Cara Efisien Mentransfer File di Linux: Panduan Menggunakan SCP dan Rsync](https://aessaputra.net/cara-efisien-mentransfer-file-di-linux-panduan-menggunakan-scp-dan-rsync/) - 2024-09-18
-- [Cara Mudah Install VirtualBox di Ubuntu](https://aessaputra.net/cara-mudah-instal-virtualbox-di-ubuntu/) - 2024-09-07
-- [Cara Menggunakan Revanced-CLI Non ROOT](https://aessaputra.net/cara-menggunakan-revanced-cli-non-root/) - 2023-07-25
-- [Pengertian Kubernetes, Fungsi, dan Cara Kerjanya](https://aessaputra.net/pengertian-kubernetes-fungsi-dan-cara-kerjanya/) - 2023-03-30
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -56,8 +51,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aessaputra&show_icons=true&locale=en" alt="aessaputra" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aessaputra&show_icons=true&locale=en&layout=compact" alt="aessaputra" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aessaputra&theme=codeSTACKr&show_icons=true)
 </p>
 
 ---
