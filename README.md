@@ -44,11 +44,6 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn GIT: Base Command, Pull Request, Branching, Merging](https://aessaputra.net/learn-git-base-command-pull-request-branching-merging/) - 2025-03-18
-- [Cara Efisien Mentransfer File di Linux: Panduan Menggunakan SCP dan Rsync](https://aessaputra.net/cara-efisien-mentransfer-file-di-linux-panduan-menggunakan-scp-dan-rsync/) - 2024-09-18
-- [Cara Mudah Install VirtualBox di Ubuntu](https://aessaputra.net/cara-mudah-instal-virtualbox-di-ubuntu/) - 2024-09-07
-- [Cara Menggunakan Revanced-CLI Non ROOT](https://aessaputra.net/cara-menggunakan-revanced-cli-non-root/) - 2023-07-25
-- [Pengertian Kubernetes, Fungsi, dan Cara Kerjanya](https://aessaputra.net/pengertian-kubernetes-fungsi-dan-cara-kerjanya/) - 2023-03-30
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -63,19 +58,8 @@
 ---
 
 ### ⚡ Coding Stats
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 75 hrs 39 mins
-
-JavaScript       40 hrs 22 mins  █████████████▒░░░░░░░░░░░   53.36 %
-PHP              15 hrs 56 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-Docker           3 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-HTML             3 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Go               2 hrs 26 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-```
-
-<!--END_SECTION:waka-->
+[![Harlok's Wakapi stats](https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/)](https://waka-stats.aes.my.id:2087)
 
 ---
 
