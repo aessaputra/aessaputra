@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aessaputra&label=Profile%20views&color=0e75b6&style=flat" alt="aessaputra" />
+  <img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/n1try/interval:30_days&style=flat-square&color=blue&label=last%2030d" alt="Coding Activity" />
+
 </p>
 
 ---
@@ -44,11 +46,6 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn GIT: Base Command, Pull Request, Branching, Merging](https://aessaputra.net/learn-git-base-command-pull-request-branching-merging/) - 2025-03-18
-- [Cara Efisien Mentransfer File di Linux: Panduan Menggunakan SCP dan Rsync](https://aessaputra.net/cara-efisien-mentransfer-file-di-linux-panduan-menggunakan-scp-dan-rsync/) - 2024-09-18
-- [Cara Mudah Install VirtualBox di Ubuntu](https://aessaputra.net/cara-mudah-instal-virtualbox-di-ubuntu/) - 2024-09-07
-- [Cara Menggunakan Revanced-CLI Non ROOT](https://aessaputra.net/cara-menggunakan-revanced-cli-non-root/) - 2023-07-25
-- [Pengertian Kubernetes, Fungsi, dan Cara Kerjanya](https://aessaputra.net/pengertian-kubernetes-fungsi-dan-cara-kerjanya/) - 2023-03-30
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -67,7 +64,4 @@
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/pioonrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pioonrey" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/aessaputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aessaputra" height="30" width="40" /></a>
-</p>
+Check out my bio 👀 and hit me up anytime! 📲
