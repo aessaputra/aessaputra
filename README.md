@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aessaputra&label=Profile%20views&color=0e75b6&style=flat" alt="aessaputra" />
-  <img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:30_days&style=flat-square&color=blue&label=last%2030d" alt="Coding Activity" />
+  <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:30_days&style=flat-square&color=blue&label=last%2030d" alt="Coding Activity" />
 
 </p>
 
@@ -24,23 +24,23 @@
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br>Go<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
+      <br>Go<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
+      <br>JavaScript<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
+      <br>Python<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      <br>PHP<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:PHP&style=flat-square&color=blue&label=time"/>
+      <br>PHP<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:PHP&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java<br><img src="https://badges.fw-web.space/endpoint?url=https://waka-stats.aes.my.id:2087/api/compat/shields/v1/aessaputra/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
+      <br>Java<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
     </td>
   </tr>
 </table>
@@ -50,11 +50,6 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn GIT: Base Command, Pull Request, Branching, Merging](https://aessaputra.net/learn-git-base-command-pull-request-branching-merging/) - 2025-03-18
-- [Cara Efisien Mentransfer File di Linux: Panduan Menggunakan SCP dan Rsync](https://aessaputra.net/cara-efisien-mentransfer-file-di-linux-panduan-menggunakan-scp-dan-rsync/) - 2024-09-18
-- [Cara Mudah Install VirtualBox di Ubuntu](https://aessaputra.net/cara-mudah-instal-virtualbox-di-ubuntu/) - 2024-09-07
-- [Cara Menggunakan Revanced-CLI Non ROOT](https://aessaputra.net/cara-menggunakan-revanced-cli-non-root/) - 2023-07-25
-- [Pengertian Kubernetes, Fungsi, dan Cara Kerjanya](https://aessaputra.net/pengertian-kubernetes-fungsi-dan-cara-kerjanya/) - 2023-03-30
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -67,7 +62,7 @@
 
 ### ⚡ Coding Stats
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=aessaputra&api_domain=waka-stats.aes.my.id:2087&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=aessaputra&api_domain=wakapi.aes.my.id&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi&layout=compact)
 
 ---
 
