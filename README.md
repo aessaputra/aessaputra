@@ -50,6 +50,11 @@
 ### 📚 Latest Writes
 
 <!-- LATEST-WRITES:START -->
+- 📒 [Panduan Menggunakan DeepWiki](https://aessaputra.net/notes/deepwiki-guide) - 2025-12-15
+- 📒 [Zero-Copy - Sistem Logistik Tanpa Pindah Barang](https://aessaputra.net/notes/zero-copy) - 2025-12-15
+- 📒 [Widget Lifecycle - Siklus Hidup Komponen Pabrik dari Setup hingga Daur Ulang](https://aessaputra.net/notes/widget-lifecycle) - 2025-12-15
+- 📒 [WebView - Jendela Web dalam Aplikasi Native](https://aessaputra.net/notes/webview) - 2025-12-15
+- 📒 [Web Performance Optimization](https://aessaputra.net/notes/web-performance) - 2025-12-15
 <!-- LATEST-WRITES:END -->
 
 ---
