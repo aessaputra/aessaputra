@@ -1,16 +1,28 @@
 name: Update Latest Writes
+run-name: "📝 Update Latest Writes by @${{ github.actor }}"
 
 on:
   push:
     branches:
       - main
+    paths:
+      - '.github/scripts/update_latest_writes.py'
+      - '.github/workflows/update-latest-writes.yml'
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 0 * * 0'  # Setiap hari Minggu pukul 00:00 UTC
   workflow_dispatch:
 
+# Mencegah race conditions dengan concurrency control
+concurrency:
+  group: "${{ github.workflow }}-${{ github.ref }}"
+  cancel-in-progress: true
+
 jobs:
-  update-blog:
+  update-latest-writes:
+    name: Update README Latest Writes
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     permissions:
       contents: write
 
@@ -21,21 +33,19 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.12'
+          cache: 'pip'
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser
+        run: pip install feedparser
 
       - name: Update README with latest activity
-        run: |
-          python .github/scripts/update_latest_writes.py
+        run: python .github/scripts/update_latest_writes.py
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Docs: Update latest writes"
+          commit_message: "docs: update latest writes"
           file_pattern: README.md
-          commit_user_name: GitHub Actions
-          commit_user_email: actions@github.com
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
