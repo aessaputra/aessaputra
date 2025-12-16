@@ -1,4 +1,4 @@
-name: Update Blog Posts
+name: Update Latest Writes
 
 on:
   push:
@@ -28,14 +28,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser
 
-      - name: Update README with latest blog posts
+      - name: Update README with latest activity
         run: |
-          python .github/scripts/update_blog.py
+          python .github/scripts/update_latest_writes.py
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Docs: Update latest blog posts"
+          commit_message: "Docs: Update latest writes"
           file_pattern: README.md
           commit_user_name: GitHub Actions
           commit_user_email: actions@github.com
