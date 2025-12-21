@@ -50,11 +50,11 @@
 ### 📚 Latest Writes
 
 <!-- LATEST-WRITES:START -->
-- 📒 [Panduan Menggunakan DeepWiki](https://aessaputra.net/notes/deepwiki-guide) - 2025-12-15
-- 📒 [Zero-Copy - Sistem Logistik Tanpa Pindah Barang](https://aessaputra.net/notes/zero-copy) - 2025-12-15
-- 📒 [Widget Lifecycle - Siklus Hidup Komponen Pabrik dari Setup hingga Daur Ulang](https://aessaputra.net/notes/widget-lifecycle) - 2025-12-15
-- 📒 [WebView - Jendela Web dalam Aplikasi Native](https://aessaputra.net/notes/webview) - 2025-12-15
-- 📒 [Web Performance Optimization](https://aessaputra.net/notes/web-performance) - 2025-12-15
+- 📒 [Using the Var Type Identifier](https://aessaputra.net/notes/using-the-var-type-identifier) - 2025-12-18
+- 📒 [Using Operators in Your Programs](https://aessaputra.net/notes/using-operators-in-your-programs) - 2025-12-18
+- 📒 [Thinking in Java](https://aessaputra.net/notes/thinking-in-java) - 2025-12-18
+- 📒 [Siklus Hidup Eksekusi Aplikasi Java](https://aessaputra.net/notes/the-execution-lifecycle-of-a-java-application) - 2025-12-18
+- 📒 [Source Code](https://aessaputra.net/notes/source-code) - 2025-12-18
 <!-- LATEST-WRITES:END -->
 
 ---
