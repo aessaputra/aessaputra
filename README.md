@@ -61,7 +61,7 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats-delta-lime-69.vercel.app/api?username=aessaputra&hide=contribs,prs)
+![](https://github-readme-stats-delta-lime-69.vercel.ap/api?username=anuraghazra&show_icons=true)
 
 ---
 
