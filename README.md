@@ -61,7 +61,7 @@
 
 ### 📊 GitHub Stats
 
-[![Aes Saputra GitHub stats](https://github-readme-stats.vercel.app/api?username=aessaputra&theme=codeSTACKr&rank_icon=github&show_icons=true&)](https://aessaputra.is-a.dev)
+![](http://aessaputra.is-a.dev/api/cards/profile-details?username=aessaputra&theme=react)
 
 ---
 
