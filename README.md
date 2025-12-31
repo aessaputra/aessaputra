@@ -60,8 +60,10 @@
 
 ### 📊 GitHub Stats
 
-[![Aes Saputra](https://github-readme-stats-delta-lime-69.vercel.app/api?username=aessaputra&hide_rank=true&show_icons=true)](https://github.com/aessaputra)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats-delta-lime-69.vercel.app/api?username=aessaputra&hide_rank=true&show_icons=true" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
+</div>
 
 ---
 
