@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aessaputra&label=Profile%20views&color=0e75b6&style=flat" alt="aessaputra" />
   <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:30_days&style=flat-square&color=blue&label=last%2030d" alt="Coding Activity" />
-
 </p>
 
 ---
@@ -61,7 +60,7 @@
 
 ### 📊 GitHub Stats
 
-![Aes Saputra](https://github-readme-stats.vercel.app/api?username=aessaputra&rank_icon=linux)
+![Aes Saputra](https://github-readme-stats.vercel.app/api?username=aessaputra&rank_icon=github)
 
 ---
 
