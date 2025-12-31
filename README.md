@@ -61,7 +61,7 @@
 
 ### 📊 GitHub Stats
 
-[![](https://github-readme-stats-delta-lime-69.vercel.app/api?username=aessaputra)](https://github.com/aessaputra/github-readme-stats)
+[![](https://github-readme-stats-delta-lime-69.vercel.app/api?username=aessaputra)](https://github.com/aessaputra)
 
 ---
 
