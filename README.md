@@ -61,7 +61,7 @@
 
 ### 📊 GitHub Stats
 
-![](http://aessaputra.is-a.dev/api/cards/profile-details?username=aessaputra&theme=react)
+![](https://github-readme-stats-delta-lime-69.vercel.app/api?username=aessaputra&show_icons=true&theme=transparent)
 
 ---
 
