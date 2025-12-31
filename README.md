@@ -60,7 +60,7 @@
 
 ### 📊 GitHub Stats
 
-![Aes Saputra](https://github-readme-stats.vercel.app/api?username=aessaputra&rank_icon=github)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aessaputra&hide_rank=true&show_icons=true&theme=radical)
 
 ---
 
