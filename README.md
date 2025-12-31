@@ -61,12 +61,7 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/aessaputra">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aessaputra&show_icons=false" />
-</a>
-<a href="https://github.com/aessaputra">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aessaputra&layout=compact&langs_count=8" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=aessaputra&show_icons=false&theme=radical&bg_color=151515&title_color=fff&text_color=fff)
 
 ---
 
