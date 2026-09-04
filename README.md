@@ -49,11 +49,11 @@
 ### 📚 Latest Writes
 
 <!-- LATEST-WRITES:START -->
-- 📒 [Using the Var Type Identifier](https://aessaputra.net/notes/using-the-var-type-identifier) - 2025-12-18
-- 📒 [Using Operators in Your Programs](https://aessaputra.net/notes/using-operators-in-your-programs) - 2025-12-18
-- 📒 [Thinking in Java](https://aessaputra.net/notes/thinking-in-java) - 2025-12-18
-- 📒 [Siklus Hidup Eksekusi Aplikasi Java](https://aessaputra.net/notes/the-execution-lifecycle-of-a-java-application) - 2025-12-18
-- 📒 [Source Code](https://aessaputra.net/notes/source-code) - 2025-12-18
+- 📝 [fetch() treats network as promises with explicit control](https://aessaputra.net/fetch-treats-network-as-promises-with-explicit-control/) - 2026-09-04
+- 📝 [Web APIs live in the runtime, not the language](https://aessaputra.net/web-ap-is-live-in-the-runtime-not-the-language/) - 2026-09-04
+- 📝 [Updates and logging close the loop attackers exploit](https://aessaputra.net/updates-and-logging-close-the-loop-attackers-exploit/) - 2026-09-04
+- 📝 [TDD starts from a failing test](https://aessaputra.net/tdd-starts-from-a-failing-test/) - 2026-09-04
+- 📝 [Strict CSP contains injected scripts by default](https://aessaputra.net/strict-csp-contains-injected-scripts-by-default/) - 2026-09-04
 <!-- LATEST-WRITES:END -->
 
 ---
