@@ -49,11 +49,11 @@
 ### 📚 Latest Writes
 
 <!-- LATEST-WRITES:START -->
-- 📝 [fetch() treats network as promises with explicit control](https://aessaputra.net/fetch-treats-network-as-promises-with-explicit-control/) - 2026-09-11
-- 📝 [Web APIs live in the runtime, not the language](https://aessaputra.net/web-ap-is-live-in-the-runtime-not-the-language/) - 2026-09-11
-- 📝 [Visual stability protects user intent, not merely appearance](https://aessaputra.net/visual-stability-protects-user-intent-not-merely-appearance/) - 2026-09-11
-- 📝 [Updates and logging close the loop attackers exploit](https://aessaputra.net/updates-and-logging-close-the-loop-attackers-exploit/) - 2026-09-11
-- 📝 [TypeScript extends JavaScript without changing runtime behavior](https://aessaputra.net/type-script-extends-java-script-without-changing-runtime-behavior/) - 2026-09-11
+- 📝 [About-me](https://aessaputra.net/about-me/) - 2026-09-19
+- 📝 [fetch() treats network as promises with explicit control](https://aessaputra.net/fetch-treats-network-as-promises-with-explicit-control/) - 2026-09-19
+- 📝 [Web APIs live in the runtime, not the language](https://aessaputra.net/web-ap-is-live-in-the-runtime-not-the-language/) - 2026-09-19
+- 📝 [Visual stability protects user intent, not merely appearance](https://aessaputra.net/visual-stability-protects-user-intent-not-merely-appearance/) - 2026-09-19
+- 📝 [Updates and logging close the loop attackers exploit](https://aessaputra.net/updates-and-logging-close-the-loop-attackers-exploit/) - 2026-09-19
 <!-- LATEST-WRITES:END -->
 
 ---
