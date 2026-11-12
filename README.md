@@ -41,6 +41,18 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
     </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+      <br>Svelte<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Svelte&style=flat-square&color=blue&label=time"/>
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" />
+      <br>Typescript<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Typescript&style=flat-square&color=blue&label=time"/>
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Docker&style=flat-square&color=blue&label=time"/>
+    </td>
   </tr>
 </table>
 
