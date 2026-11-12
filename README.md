@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aessaputra&label=Profile%20views&color=0e75b6&style=flat" alt="aessaputra" />
-  <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:30_days&style=flat-square&color=blue&label=last%2030d" alt="Coding Activity" />
+  <img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:30_days&style=flat-square&color=blue&label=last%2030d" alt="Coding Activity" />
 </p>
 
 ---
@@ -23,23 +23,23 @@
   <tr>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br>Go<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
+      <br>Go<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
+      <br>JavaScript<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
+      <br>Python<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      <br>PHP<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:PHP&style=flat-square&color=blue&label=time"/>
+      <br>PHP<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:PHP&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java<br><img src="https://badges.fw-web.space/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
+      <br>Java<br><img src="https://img.shields.io/endpoint?url=https://wakapi.aes.my.id/api/compat/shields/v1/aessaputra/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
     </td>
   </tr>
 </table>
